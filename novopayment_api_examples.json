@@ -1,0 +1,31 @@
+[
+	{
+		"Success": {
+			"value": {
+				"code": "200.01.000",
+				"message": "Process Ok",
+				"datetime": "2020-01-03T16:05:56.517Z",
+				"data": {
+					"attributeOne": "7384a915-e0bd-4bd4-9eb6-38ea00cd8ce7",
+					"attributeTwo": "Nunc vitae metus facilisis"
+				}
+			}
+		}
+	},{
+		"InvalidAccessToken": {
+			"value": {
+				"code": "7384a915-e0bd-4bd4-9eb6-38ea00cd8ce7",
+				"message": "Invalid Access Token",
+				"datetime": "2020-01-03T16:05:56.517Z"
+			}
+		},
+	},{
+		"AccessTokenNotApproved": {
+			"value": {
+				"code": "7384a915-e0bd-4bd4-9eb6-38ea00cd8ce7",
+				"message": "Access Token not approved",
+				"datetime": "2020-01-03T16:05:56.517Z"
+			}
+		}
+	}
+]
